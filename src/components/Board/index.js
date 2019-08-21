@@ -31,8 +31,6 @@ export default function Board() {
       else {
         console.log(list[fromList].cards[from], fromList, toList, from);
       }
-      // draft[fromList].cards.splice(toList, 0, dragged);
-      // draft[toList].cards = draft[toList].cards.filter(card => card !== undefined)
     }))
   }
 
