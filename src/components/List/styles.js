@@ -2,8 +2,6 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
   padding: 0 15px;
-  height: 100%;
-  overflow-y: scroll;
 
   flex-grow: 0;
   flex-shrink: 0; /* encolhe o nó max que der */
